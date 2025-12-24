@@ -16,7 +16,7 @@
 ## 실행 방법
 1. 프로젝트 클론
 ```bash
- git clone https://github.com/username/hyundai-autoever.git
+ git clone https://github.com/leastzero/hyundai-autoever.git
 ```
 
 2. 폴더 이동
@@ -28,8 +28,8 @@
  - 또는 더블 클릭으로 브라우저에서 열기
 
 ## 개발자
-- 팀장: [이름]
-- 팀원: [이름]
+- 팀장: 최소영
+- 팀원: 정민호
 
 ## 라이선스
-Copyright © 2024 Hyundai AutoEver Corp. All rights reserved.
+Copyright © 2025 Hyundai AutoEver Corp. All rights reserved.
